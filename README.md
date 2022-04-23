@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/diovanidostatny/diovanidos
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 
 
-### Markdown
+### Outra Coisa
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -22,7 +22,7 @@ Syntax highlighted code block
 1. Numbered  111
 2. List 222
 
-**Bold** and _Italic_ and `Code` text
+**Negrito** and _Itálico_ and `Código` text
 
 https://www.youtube.com/watch?v=1QTi8nIlK1o
 
