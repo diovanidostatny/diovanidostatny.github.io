@@ -7,7 +7,7 @@
 
 - Para editar minha página, clico aqui ==>> [editar non GitHub](https://github.com/diovanidostatny/diovanidostatny.github.io/edit/main/README.md).
 
-- Para instalar o GitHub em sua distribuição Linux (Debian ou RedHat) e suas derivações, clique aqui [Github Desktop](https://www.githubdesktop.com/github-desktop-linux-install/)
+- Para instalar o GitHub em sua distribuição Linux (Debian ou RedHat) e suas derivações, clique aqui [Github Desktop](https://www.githubdesktop.com/github-desktop-linux-install/)<p>Home&emsp;Host.</p>
 
 - Quando ocorreo o commit para o repositório, o GitHub Pages executa o [Jekyll](https://jekyllrb.com/) para reconstruir a págnia no site, a partir do conteúdo do arquivos do Markdown. 
 
