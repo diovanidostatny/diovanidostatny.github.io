@@ -3,7 +3,9 @@
 
 ![2021-01-17](https://user-images.githubusercontent.com/104116142/164909377-cca6cf03-337c-4122-a090-5dd6a7bfd1da.jpg)
 
-You can use the [editor on GitHub](https://github.com/diovanidostatny/diovanidostatny.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- Para editar minha página, clico aqui ==>> [editor on GitHub](https://github.com/diovanidostatny/diovanidostatny.github.io/edit/main/README.md).
+
+- Para instalar o GitHub em sua distribuição Linux (Debian ou RedHat) e suas derivações, clique aqui [Github Desktop](https://www.githubdesktop.com/github-desktop-linux-install/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 
