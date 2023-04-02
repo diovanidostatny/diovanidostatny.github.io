@@ -12,6 +12,9 @@
 - Quando ocorre o commit para o repositório, o GitHub Pages executa o [Jekyll](https://jekyllrb.com/) para reconstruir a página no site, a partir do conteúdo do arquivos do Markdown. 
 
 
+   | Hello | World |
+   |---|---|
+   | How | are you? |
 
 
 ### Certificações
