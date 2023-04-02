@@ -9,7 +9,7 @@
 
 - Para instalar o GitHub em sua distribuição Linux (Debian ou RedHat) e suas derivações, clique aqui [Github Desktop](https://www.githubdesktop.com/github-desktop-linux-install/).
 
-- Quando ocorre o commit para o repositório, o GitHub Pages executa o [Jekyll](https://jekyllrb.com/) para reconstruir a página no site, a partir do conteúdo do arquivos do Markdown. 
+> - Quando ocorre o commit para o repositório, o GitHub Pages executa o [Jekyll](https://jekyllrb.com/) para reconstruir a página no site, a partir do conteúdo do arquivos do Markdown. 
 
 
    | Hello | World |
